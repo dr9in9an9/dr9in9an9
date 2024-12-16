@@ -1,5 +1,7 @@
-## Hi there 👋 
-🌱 I’m currently learning how to use github!!! \n
+## hi there 👋 
+### im just a chill guy who likes cs and hanging out with friends
+🌱 I’m currently learning how to use github!!!
+
 ⚡ Fun fact: I am really interested in addressing policy around future technology.
 
 
