@@ -1,5 +1,5 @@
 ## Hi there 👋 
-🌱 I’m currently learning how to use github!!!
+🌱 I’m currently learning how to use github!!! \n
 ⚡ Fun fact: I am really interested in addressing policy around future technology.
 
 
