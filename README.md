@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 
+🌱 I’m currently learning how to use github!!!
+⚡ Fun fact: I am really interested in addressing policy around future technology.
+
 
 <!--
 **dr9in9an9/dr9in9an9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
