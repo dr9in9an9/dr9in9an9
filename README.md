@@ -1,8 +1,11 @@
-## hi there 👋 
-### im just a chill guy who likes cs and hanging out with friends
-🌱 I’m currently learning how to use github!!!
+## "Knowledge begins with practice... "
 
-⚡ Fun fact: I am really interested in addressing policy around future technology.
+Hello! My name is Jesus. I study Computer Science and Mathematics at Appalachian State University.
+### I'm just a chill guy who likes programming niche concepts and enjoying nature.  
+
+🔭 Research: I’m currently working on a project in the field of Bioinformatics.  
+⚡ Fun fact: I am currently developing my first mathematics paper!  
+👯 Open to collaboration. :)  
 
 
 <!--
