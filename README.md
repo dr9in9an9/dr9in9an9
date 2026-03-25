@@ -1,4 +1,4 @@
-## "Knowledge begins with practice... "
+## Knowledge begins with practice... 
 
 Hello! My name is Jesus. I study Computer Science and Mathematics at Appalachian State University.
 ### I'm just a chill guy who likes programming niche concepts and enjoying nature.  
